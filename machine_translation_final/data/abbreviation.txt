@@ -1,0 +1,32 @@
+anh	a	0.3	I (you)
+em	e	0.3	I (you)
+ồ	oh	0.2	Oh
+ồ	ohh	0.2	Oh
+à	ah	0.2	Ah
+à	ahh	0.2	Ah
+cậu	c	0.2	You
+tớ	t	0.2	I
+đang	dg	0.2	-ing (on progress)
+đường	dg	0.1	road
+được	dc	0.3	passive 
+gì	j	0.3	what
+giờ	h	0.2	hour
+không	k	0.2	no
+không	ko	0.2	no
+không	0	0.1	no
+với	vs	0.05	with
+với	vs.	0.1	with
+nhưng	n	0.1	but
+nhưng	ng	0.1	but
+những	n	0.05	many
+ừa	uah	0.05	yes, right
+ừ	uah	0.1	yes, right
+ừ	uhm	0.1	yes, right
+ừm	uhm	0.1	yes, right
+tao	t	0.1	I
+mày	m	0.1	You
+ông	o	0.1	I (you)
+tôi	t	0.1	I
+vợ	v	0.05	I (you)
+chồng	c	0.05	I (you)
+bà	b	0.1	I (you)

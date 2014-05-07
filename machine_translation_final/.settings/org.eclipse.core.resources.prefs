@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/data_simulate/diacritic_handler.py=utf-8
+encoding//src/data_simulate/module_test.py=utf-8
+encoding//src/decode/module_test.py=utf-8
+encoding//src/evaluator/evaluator.py=utf-8
+encoding//src/evaluator/module_test.py=utf-8
+encoding//src/train/language_model_train.py=utf-8
+encoding//src/train/module_test.py=utf-8
+encoding//src/training_data/module_test.py=utf-8

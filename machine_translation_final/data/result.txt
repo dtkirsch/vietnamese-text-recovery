@@ -1,0 +1,3 @@
+Precision: 80 percent
+Precision of recovering: 85 percent
+Precision of segmentation: 90 percent
